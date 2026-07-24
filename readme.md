@@ -4,9 +4,9 @@
 ![Version](https://img.shields.io/github/v/release/Sleekode/sleekode-performance-core)
 ![Downloads](https://img.shields.io/wordpress/plugin/dt/sleekode-performance-core)
 
-# Sleekode Chrono Snap
+# Sleekode Performance Core
 
-![Sleekode Chrono Snap](images/banner-1544x500.png)
+![Sleekode Performance Core](images/banner-1544x500.png)
 
 Official WordPress Plugin:
 
