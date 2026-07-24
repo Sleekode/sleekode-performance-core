@@ -1,8 +1,8 @@
 ![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4)
 ![License](https://img.shields.io/badge/License-GPLv2%2B-green)
-![Version](https://img.shields.io/github/v/release/Sleekode/sleekode-performance-core.)
-![Downloads](https://img.shields.io/wordpress/plugin/dt/sleekode-performance-core.)
+![Version](https://img.shields.io/github/v/release/Sleekode/sleekode-performance-core)
+![Downloads](https://img.shields.io/wordpress/plugin/dt/sleekode-performance-core)
 
 # Sleekode Chrono Snap
 
